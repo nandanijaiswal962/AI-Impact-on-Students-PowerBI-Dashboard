@@ -99,16 +99,16 @@ These filters dynamically update all visualizations for better analysis.
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```text
 AI-Impact-on-Students-PowerBI-Dashboard/
 │
-├── AI_Impact_on_Students.xlsx
-├── AI_Impact_on_Students_PowerBI_Dashboard.pbix
-├── Dashboard.png
-└── README.md
-```
+├── AI_Impact_on_Students_PowerBI_Dashboard.pbix    # Final interactive dashboard
+├── AI_Impact_on_Students_Transformed.pbix          # Power Query transformations & calculated columns
+├── AI_Impact_on_Students.xlsx                      # Source dataset
+├── Dashboard.png                                   # Dashboard screenshot
+└── README.md                                       # Project overview and instructions
 ```
 
 ---
