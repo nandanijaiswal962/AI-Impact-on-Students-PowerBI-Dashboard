@@ -1,112 +1,148 @@
-🎓 AI Impact on Students Dashboard
-📖 Project Overview
+# 🎓 AI Impact on Students Dashboard
 
-The AI Impact on Students Dashboard is an interactive Power BI project that explores how Artificial Intelligence is influencing students' academic performance, learning behavior, study habits, and well-being. The dashboard enables users to analyze AI usage patterns across different majors, years of study, subscription types, and prompt engineering skill levels.
+## 📌 Project Overview
 
-🎯 Objectives
-Analyze AI adoption among students.
-Compare academic performance before and after AI usage.
-Explore AI usage across different academic majors.
-Evaluate prompt engineering skill distribution.
-Compare Free vs. Paid AI subscriptions.
-Understand anxiety levels and skill retention among students.
-Analyze AI use cases across different years of study.
+The **AI Impact on Students Dashboard** is an interactive Power BI project that analyzes how Artificial Intelligence influences students' academic performance, learning behavior, well-being, and AI adoption. The dashboard provides meaningful insights through interactive visualizations and KPIs, helping users explore trends across majors, study years, AI subscription types, and prompt engineering skill levels.
 
-📊 Dashboard Overview
+---
 
-The dashboard consists of interactive KPI cards, slicers, and visualizations that provide insights into AI's impact on students.
+## 🎯 Objectives
 
-🔹 KPI Cards
-👨‍🎓 Total Students: 50,000
-📚 Average Pre Semester GPA: 3.15
-📈 Average Post Semester GPA: 3.35
-⏱ Average Weekly AI Usage: 8.43 Hours
-🧠 Average Anxiety Level: 4.27
-🎯 Skill Retention Score: 75.8
+- Analyze AI adoption among students.
+- Compare academic performance before and after AI usage.
+- Evaluate AI usage across different majors.
+- Compare Free vs. Paid AI subscriptions.
+- Analyze prompt engineering skill distribution.
+- Monitor anxiety levels and skill retention.
+- Explore AI use cases by year of study.
 
+---
 
-📈 Visualizations Included
+## 📊 Dashboard Highlights
 
-Students Distribution by Major (Donut Chart)
-Paid vs Free AI Subscription (Column Chart)
-Prompt Engineering Skill Distribution (Pie Chart)
-Skill Retention Score (Gauge Chart)
-Average Anxiety Level by Major (Bar Chart)
-Weekly AI Usage by Major (Line Chart)
-Primary AI Use Case by Year of Study (Clustered Column Chart)
+### Key Performance Indicators (KPIs)
 
-🎛 Interactive Filters
+| Metric | Value |
+|--------|------:|
+| 👨‍🎓 Total Students | 50,000 |
+| 📚 Average Pre-Sem GPA | 3.15 |
+| 📈 Average Post-Sem GPA | 3.35 |
+| ⏱ Average Weekly AI Usage | 8.43 Hours |
+| 🧠 Average Anxiety Level | 4.27 |
+| 🎯 Skill Retention Score | 75.8 |
 
-The dashboard includes dynamic slicers for:
-Major Category
-Prompt Engineering Skill
+---
 
-These filters update all visuals simultaneously for interactive analysis.
+## 📈 Dashboard Visualizations
 
-📂 Dataset Information
+- Students Distribution by Major (Donut Chart)
+- Paid vs Free Subscription (Column Chart)
+- Prompt Engineering Skill Distribution (Pie Chart)
+- Skill Retention Score (Gauge Chart)
+- Average Anxiety Level by Major (Bar Chart)
+- Weekly AI Usage by Major (Line Chart)
+- Primary AI Use Case by Year of Study (Clustered Column Chart)
+- Interactive KPI Cards
+- Dynamic Slicers
 
-Property	Details
-Dataset	AI Impact on Students
-Records	50,000
-Format	Excel (.xlsx)
-Visualization Tool	Microsoft Power BI
-Data Preparation	Power Query
+---
 
-💡 Key Insights
+## 🎛 Interactive Filters
 
-STEM students represent the largest share of the dataset.
-Average GPA increased from 3.15 to 3.35 after AI adoption.
-Most students use the Free AI subscription, while a significant number use Paid plans.
-Beginner and Intermediate prompt engineering skill levels make up the majority of students.
-STEM students spend the highest number of hours using AI each week.
-Skill retention score remains high at 75.8, indicating positive learning outcomes.
-AI use cases such as Copywriting, Debugging, Direct Answers, Ideation, and Summarization vary across different years of study.
-Anxiety levels differ across majors, highlighting variations in student well-being.
+The dashboard includes interactive slicers for:
 
-🛠 Tools & Technologies
+- Major Category
+- Prompt Engineering Skill
 
-Microsoft Power BI
-Microsoft Excel
-Power Query
-DAX
-Data Modeling
-Data Visualization
+These filters dynamically update all visualizations for better analysis.
 
-📁 Repository Structure
+---
 
+## 📂 Dataset Information
+
+| Property | Details |
+|----------|---------|
+| Dataset | AI Impact on Students |
+| Records | 50,000 |
+| File Format | Excel (.xlsx) |
+| Visualization Tool | Microsoft Power BI Desktop |
+
+---
+
+## 💡 Key Insights
+
+- Average Post-Sem GPA is higher than the Pre-Sem GPA.
+- STEM students show the highest AI adoption.
+- Most students use Free AI subscriptions.
+- Prompt Engineering skills vary from Beginner to Advanced.
+- Students across different study years use AI for various purposes, including Copywriting, Debugging, Direct Answers, Ideation, and Summarization.
+- The dashboard highlights differences in anxiety levels and AI usage across academic majors.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Modeling
+
+---
+
+## 📷 Dashboard Preview
+
+> Save your dashboard screenshot as **Dashboard.png** in this repository.
+
+```md
+![Dashboard Preview](Dashboard.png)
+```
+
+---
+
+## 📁 Repository Structure
+
+```
 AI-Impact-on-Students-Dashboard/
 │
 ├── AI_Impact_on_Students.pbix
 ├── AI_Impact_on_Students.xlsx
 ├── Dashboard.png
-├── README.md
-└── LICENSE
+└── README.md
+```
 
-🚀 How to Use
-Download or clone this repository.
-Open AI_Impact_on_Students.pbix in Microsoft Power BI Desktop.
-Refresh the dataset if required.
-Use the slicers to interact with the dashboard and explore insights.
+---
 
-📷 Dashboard Preview
-<img width="1456" height="804" alt="Dashboard" src="https://github.com/user-attachments/assets/d5df9300-ecdd-4fe9-a060-135c66d103df" />
+## 🚀 How to Use
 
+1. Clone or download this repository.
+2. Open the `.pbix` file using Microsoft Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the dashboard using the interactive slicers and visualizations.
 
-🎯 Skills Demonstrated
+---
 
-Data Cleaning
-Power Query
-Data Transformation
-Data Modeling
-DAX Measures
-Interactive Dashboard Design
-KPI Development
-Business Intelligence
-Data Storytelling
-Data Visualization
+## 🎯 Skills Demonstrated
 
+- Data Cleaning
+- Data Transformation
+- Power Query
+- DAX
+- Data Modeling
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Interactive Reporting
+- Data Storytelling
 
-👩‍💻 Author
+---
 
-Nandani Jaiswal
-Computer Engineering Student | Aspiring Data Analyst | Power BI Enthusiast
+## 👩‍💻 Author
+
+**Nandani Jaiswal**
+
+Computer Engineering Student | Power BI Developer | Data Visualization Enthusiast
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
