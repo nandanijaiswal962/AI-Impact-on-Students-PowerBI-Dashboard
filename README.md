@@ -92,14 +92,12 @@ These filters dynamically update all visualizations for better analysis.
 
 ## 📷 Dashboard Preview
 
-> Save your dashboard screenshot as **Dashboard.png** in this repository.
 
 ```md
-![Dashboard Preview](Dashboard.png)
+![AI Impact on Students Dashboard](Dashboard-Screenshot/Dashboard.png)
 ```
 
 ---
-
 ## 📁 Repository Structure
 
 ```
@@ -107,8 +105,10 @@ AI-Impact-on-Students-Dashboard/
 │
 ├── AI_Impact_on_Students.pbix
 ├── AI_Impact_on_Students.xlsx
-├── Dashboard.png
+├── Dashboard Screenshot/
+│   └── Dashboard.png
 └── README.md
+```
 ```
 
 ---
