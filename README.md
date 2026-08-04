@@ -93,10 +93,9 @@ These filters dynamically update all visualizations for better analysis.
 ## 📷 Dashboard Preview
 
 
-```md
+
 
 ![AI-Impact-on-Students-PowerBI-Dashboard](Dashboard.png)
-```
 
 ---
 
