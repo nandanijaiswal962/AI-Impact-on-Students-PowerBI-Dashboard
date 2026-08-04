@@ -94,19 +94,20 @@ These filters dynamically update all visualizations for better analysis.
 
 
 ```md
-![AI Impact on Students Dashboard](Dashboard-Screenshot/Dashboard.png)
+
+![AI Impact on Students Dashboard](Dashboard.png)
 ```
 
 ---
+
 ## 📁 Repository Structure
 
-```
-AI-Impact-on-Students-Dashboard/
+```text
+AI-Impact-on-Students-PowerBI-Dashboard/
 │
-├── AI_Impact_on_Students.pbix
 ├── AI_Impact_on_Students.xlsx
-├── Dashboard Screenshot/
-│   └── Dashboard.png
+├── AI_Impact_on_Students_PowerBI_Dashboard.pbix
+├── Dashboard.png
 └── README.md
 ```
 ```
@@ -116,7 +117,7 @@ AI-Impact-on-Students-Dashboard/
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
+2. Open the `AI-Impact-on-Students-PowerBI-Dashboard.pbix` file using Microsoft Power BI Desktop.
 3. Refresh the dataset if required.
 4. Explore the dashboard using the interactive slicers and visualizations.
 
